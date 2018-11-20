@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f71ae</color>
+    <color name="colorPrimaryDark">#2e537f</color>
+    <color name="colorAccent">#23a2b1</color>
+    <color name="colorGreen">#388e3c</color>
+    <color name="grey">#22425a</color>
+    <color name="tips_color">#f87413</color>
+    <color name="bg_menu">#00477c</color>
+    <color name="bg_circle">#074675</color>
+    <color name="circle_line_color">#336c96</color>
+    <color name="text_color">#8cb5d4</color>
+    <color name="no_view_text_color">#828f97</color>
+    <color name="blue_late">#072036</color>
+    <color name="light_sky_blue">#99c2f7</color>
+    <color name="slate_blue">#7c60d9</color>
+    <color name="medium_slate_blue">#8751e4</color>
+    <color name="royal_blue">#4184f3</color>
+    <color name="crimson">#d0314f</color>
+    <color name="gains_boro">#e2e2e2</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteShade">#448aff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightAsh">#EBEBEB</color>
+    <color name="colorPrimaryLight">#82b1ff</color>
+    <color name="colorLightBlack">#536dfe</color>
+    <color name="colorLightWhite">#DFDFDF</color>
+    <color name="colorviolet">#00b0ff</color>
+    <color name="color_darkmagenta">#4fc3f7</color>
+    <color name="login_page_background"> #e5f3fb</color>
+    <color name="fb_button_blue">#3b5998</color>
+    <color name="green_button">#a1c627</color>
+    <color name="register_blue">#0090ff</color>
+    <color name="main_text_light_black"> #363e43</color>
+    <color name="field_text_black">#4e5d66</color>
+    <color name="line_text_black"> #d9e0e4</color>
+    <color name="main_page_text_blue">#3c6680</color>
+    <color name="tab_color_blue"> #0090ff</color>
+    <color name="sub_text_black"> #768e9c</color>
+    <color name="expired_orange">#E45814</color>
+    <color name="menu_bg">#00477c</color>
+    <color name="menu_text_color">#8cb5d4</color>
+    <color name="popup_background">#002f54</color>
+</resources>
